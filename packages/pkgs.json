@@ -1,0 +1,37 @@
+[
+ {
+  "path": "/packages/iot/kawaii-mqtt", 
+  "ver": "latest", 
+  "name": "KAWAII_MQTT"
+ }, 
+ {
+  "path": "/packages/iot/WiFi/wlan_cyw43012", 
+  "ver": "v0.0.1", 
+  "name": "WLAN_CYW43012"
+ }, 
+ {
+  "path": "/packages/language/JSON/cJSON", 
+  "ver": "v1.7.17", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/tools/gps_rmc", 
+  "ver": "latest", 
+  "name": "GPS_RMC"
+ }, 
+ {
+  "path": "/packages/system/FreeRTOS_Wrapper", 
+  "ver": "v1.0.0", 
+  "name": "FREERTOS_WRAPPER"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/aht10", 
+  "ver": "v2.1.0", 
+  "name": "AHT10"
+ }, 
+ {
+  "path": "/packages/peripherals/ssd1306", 
+  "ver": "latest", 
+  "name": "SSD1306"
+ }
+]
